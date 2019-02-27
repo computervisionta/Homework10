@@ -1,5 +1,5 @@
 # Homework10
-Homework6 for computer vision class
+Homework10 for computer vision class
 
 Create data points:
 (1 Pts.) Write code to create the data points
