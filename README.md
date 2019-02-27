@@ -1,4 +1,4 @@
-# Homework6
+# Homework10
 Homework6 for computer vision class
 
 Create data points:
